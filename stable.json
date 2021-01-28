@@ -14,7 +14,7 @@
   },
   "magisk": {
     "version": "ef9d077c",
-    "versionCode": "279",
+    "versionCode": "20401",
     "link": "https://github.com/CNLM/magisk_files/releases/download/v1/Magisk-ef9d077c-phh.zip",
     "note": "https://topjohnwu.github.io/Magisk/releases/21200.md"
   }
